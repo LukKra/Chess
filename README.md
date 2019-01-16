@@ -5,3 +5,7 @@ K is king, H is queen, W is rook, G is bishop, S is knight.
 
 #15.01.19#
 Current version initializes the board, can move kings and pawns, no pawn promotion yet, no check, checkmate or stalemate logic yet
+
+#16.01.19#
+Added knight movement, added display
+TODO <bold>unfound bug sometimes stops pawns from taking other pieces</bold>
